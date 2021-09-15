@@ -2,8 +2,6 @@
 
 อย่าลืมเตรียมโดเมนก่อนนะครับ
 
-
-
 <h3 align="center">ก่อนอื่นใส่คำสั่งนี้ก่อน</h3>
 
 <p align="center">
@@ -29,21 +27,11 @@
 - V2RAY Vless TLS         : 2083
 - V2RAY Vless None TLS    : 8880
 - Trojan                  : 2443
-- Owner                   : เอเจ
-- LINE                    : aj07
+- Owner                   : SP VPN-TH
+- LINE                    : BANKISSS
 
 
 ซัพพอร์ต​
 
 Debian 9 & 10
 Ubuntu 18 & 20
-
-ขอขอบคุณ
-โฮส
-เซย์
-เคนนี่
-อัยมาน
-และทุกๆคน
-
-มีปัญหา​แจ้งผมได้
-0934567688
