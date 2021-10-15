@@ -121,11 +121,7 @@ echo "/bin/false" >> /etc/shells
 echo "/usr/sbin/nologin" >> /etc/shells
 /etc/init.d/dropbear restart
 
-# install squid
-cd
-apt -y install squid3
-wget -O /etc/squid/squid.conf "https://raw.githubusercontent.com/Bankzza555666/script/main/squid3.conf"
-sed -i $MYIP2 /etc/squid/squid.conf
+
 
 # setting vnstat
 apt -y install vnstat
@@ -163,7 +159,7 @@ connect = 127.0.0.1:22
 
 [openvpn]
 accept = 442
-connect = 127.0.0.1:1194
+connect = 127.0.0.1:443
 
 
 END
